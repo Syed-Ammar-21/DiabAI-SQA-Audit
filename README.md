@@ -60,11 +60,14 @@ directly from model output across the full pipeline.
 
 ## Defect Evidence
 
-- ### DS-26 — UI displaying "Diabetic" at 35.09% probability
-![DS-26 Bug Evidence](evidence/DS26-bug-screenshot.png)
+- ### DS-26 — Logic Validation
+![DS-25 Bug Evidence](evidence/DS-25.png)
+
+- ### DS-25 — UI displaying "Diabetic" at 35.09% probability
+![DS-26 Bug Evidence](evidence/DS-26.png)
 
 - ### Jira Release — v1.0-Quality-Audit
-![Jira Release](evidence/jira-release-v1.0.png)
+![Jira Release](evidence/RELEASED.png)
 
 ---
 
