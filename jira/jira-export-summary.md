@@ -1,11 +1,11 @@
 # Jira Sprint Summary — DiabAI SQA Audit
 
-**Project:** DiabAI System (DS)
-**Epic:** DS-1 — DiabAI: SQA Audit
-**Sprint:** DS Sprint 1
-**Release:** v1.0-Quality-Audit
-**Release Date:** 29 March 2026
-**Status:** Done
+ - **Project:** DiabAI System (DS)
+ - **Epic:** DS-1 — DiabAI: SQA Audit
+ - **Sprint:** DS Sprint 1
+ - **Release:** v1.0-Quality-Audit
+ - **Release Date:** 29 March 2026
+ - **Status:** Done
 
 ---
 
@@ -42,6 +42,6 @@
 ---
 
 ## Notes
-- Full regression cycle executed after resolution of DS-25 and DS-26
-- Zero open defects at time of release sign-off
-- TC-15 conditional pass due to Railway trial credit expiry — not a code defect
+- Full regression cycle executed after resolution of DS-25 and DS-26.
+- Zero open defects at time of release sign-off.
+- TC-15 conditional pass due to Railway trial credit expiry — not a code defect.
