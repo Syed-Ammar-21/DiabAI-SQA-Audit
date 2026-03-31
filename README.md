@@ -75,9 +75,9 @@ directly from model output across the full pipeline.
 
 | Document | Description |
 |---|---|
-| [Software Test Plan (STP)](docs/DiabAI_SQA_Test_Plan.pdf) | Test strategy, scope, methodology, entry/exit criteria |
-| [Test Case Suite (TCS)](docs/DiabAI_SQA_Test_Case_Suite.pdf) | All 18 test cases with steps, data, and results |
-| [Audit Release Summary (ARS)](docs/DiabAI_SQA_Audit_Release_Report.pdf) | Quality gates, regression history, formal sign-off |
+| [Software Test Plan (STP)](docs/Diab_AI_SQA_Test_Plan.pdf) | Test strategy, scope, methodology, entry/exit criteria |
+| [Test Case Suite (TCS)](docs/Diab_AI_SQA_Test_Case_Suite.pdf) | All 18 test cases with steps, data, and results |
+| [Audit Release Summary (ARS)](docs/Diab_AI_SQA_Audit_Release_Report.pdf) | Quality gates, regression history, formal sign-off |
 
 ---
 
