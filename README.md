@@ -60,10 +60,10 @@ directly from model output across the full pipeline.
 
 ## Defect Evidence
 
-- ### DS-26 — Logic Validation
+- ### DS-25 — Logic Validation
 ![DS-25 Bug Evidence](evidence/DS-25.png)
 
-- ### DS-25 — UI displaying "Diabetic" at 35.09% probability
+- ### DS-26 — UI displaying "Diabetic" at 35.09% probability
 ![DS-26 Bug Evidence](evidence/DS-26.png)
 
 - ### Jira Release — v1.0-Quality-Audit
@@ -75,9 +75,9 @@ directly from model output across the full pipeline.
 
 | Document | Description |
 |---|---|
-| [Software Test Plan (STP)](docs/STP-DiabAI-v1.0.pdf) | Test strategy, scope, methodology, entry/exit criteria |
-| [Test Case Suite (TCS)](docs/TCS-DiabAI-v1.0.pdf) | All 18 test cases with steps, data, and results |
-| [Audit Release Summary (ARS)](docs/ARS-DiabAI-v1.0.pdf) | Quality gates, regression history, formal sign-off |
+| [Software Test Plan (STP)](docs/DiabAI_SQA_Test_Plan.pdf) | Test strategy, scope, methodology, entry/exit criteria |
+| [Test Case Suite (TCS)](docs/DiabAI_SQA_Test_Case_Suite.pdf) | All 18 test cases with steps, data, and results |
+| [Audit Release Summary (ARS)](docs/DiabAI_SQA_Audit_Release_Report.pdf) | Quality gates, regression history, formal sign-off |
 
 ---
 
